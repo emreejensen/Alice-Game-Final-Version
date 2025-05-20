@@ -1,0 +1,8 @@
+Vorpal Blade~A long silver blade with a short wooden handle. It deals serious damage in close combat.~20~0
+Teapot Cannon~A steaming kettle that launches timebombs from its spout. Powerful, but heavy.~10~0
+Roses~A bloom of mystical roses that restores some of Alice's vitality when consumed.~0~20
+Misstitched Dress~A tattered but enchanted dress that radiates protective energy.~0~10
+Rose Shield~A shimmering shield made of magical roses. Light, but strong.~0~15
+Rage Shard~A fragment of raw fury pulsing with violent energy. Increases your attack slightly.~5~0
+Smile Potion~A swirling, sweet-smelling potion that restores a bit of sanity and health.~0~15
+Flamingo Feather~A feather from a fallen foe. Light and magical, it restores your composure.~0~10

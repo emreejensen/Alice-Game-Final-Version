@@ -1,0 +1,7 @@
+1~false~Houndsditch Home for Wayward Youth~In the cold, gloomy halls thick with dust, she serves as a maid for orphans under Dr. Bumby's watch.~Vorpal Blade~0~0,2,3,0~0
+2~false~Hatter's Domain~A fiery factory churning its gears with molten lava, she moves through the searing heat.~Teapot Cannon~0~0,0,4,1~Grinning Cheshire
+3~false~Deluded Depths~Abandoned ships haunt murky waters, their decaying frames sinking as she navigates the eerie depths.~0~1~1,4,5,0~0
+4~false~Queensland~Card towers rise against the horizon, their fragile walls teetering as she treads carefully through the towering spires.~Roses~0~2,0,6,3~Flamingo Guard
+5~false~Dollhouse~She dances carefully through broken dolls and crumbling dollhouses, their twisted remains haunting the forgotten space.~Misstitched Dress~0~3,6,7,0~Bandersnatch
+6~false~Infernal Train~The twisted, fiery train barrels through the wreckage, its wheels screeching as she races to escape its burning grasp.~0~2~4,0,0,5~0
+7~false~Asylum~A dark, oppressive asylum with rusted bars and flickering lights, where echoes of madness haunt every corner.~0~3~5,0,0,0~0
